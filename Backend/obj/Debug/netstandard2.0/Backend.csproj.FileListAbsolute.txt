@@ -1,0 +1,9 @@
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.csprojAssemblyReference.cache
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.AssemblyInfoInputs.cache
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.AssemblyInfo.cs
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.csproj.CoreCompileInputs.cache
+/home/satya/Documents/BTP/Test/Backend/bin/Debug/netstandard2.0/Backend.deps.json
+/home/satya/Documents/BTP/Test/Backend/bin/Debug/netstandard2.0/Backend.dll
+/home/satya/Documents/BTP/Test/Backend/bin/Debug/netstandard2.0/Backend.pdb
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.dll
+/home/satya/Documents/BTP/Test/Backend/obj/Debug/netstandard2.0/Backend.pdb

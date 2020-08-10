@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFDRklsoDDrm2eQYPy7pjhTQf1Sjfr4HVVBTP2O6WGc/6fbq2W4J2D8p+HfdHH/p294BZ/LujEAXWZY8SreXww==",
+  "success": true,
+  "projectFilePath": "/home/satya/Documents/BTP/Test/Backend/Backend.csproj",
+  "expectedPackageFiles": [
+    "/home/satya/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/satya/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/satya/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/satya/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
